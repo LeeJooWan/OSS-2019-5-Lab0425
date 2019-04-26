@@ -23,5 +23,6 @@ do
 			continue
 		fi
 	fi
+	sleep 2
 done
 
